@@ -56,8 +56,17 @@ public class LineProblem
 			 {
 				  System.out.println("Two lines are equal");
 				  else
+				  if (dis1 !=dis2)
 				 {
 					 System.out.println("Two lines are not equal");
+					 else
+						 if (dis1>dis2)
+						 {
+							 System.out.println("Line 1 is greater");
+
+							 else
+								 System.out.println("Line 2 is greater");
+						 }
 				 }
 			 }
 
