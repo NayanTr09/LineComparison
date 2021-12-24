@@ -6,7 +6,7 @@ public class LineProblem
 
 	{
 
-             	 int x1,x2,y1,y2;
+             	 int x1,x2,y1,y2,x3,x4,y3,y4;
 
 	         double dis1,dis2;
 
